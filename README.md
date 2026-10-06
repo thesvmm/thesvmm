@@ -34,20 +34,6 @@ My main interests are **backend engineering, API development, database design, s
 
 ---
 
-### Let's Connect
-
-I'm always open to discussing:
-
-- Backend development
-- Software engineering
-- Open-source projects
-- System architecture
-- Interesting tech projects
-
-If you have an interesting project or idea, feel free to reach out.
-
----
-
 <p align="center">
   <i>Building things, learning continuously, and improving one commit at a time.</i>
 </p>
