@@ -28,8 +28,8 @@ My main interests are **backend engineering, API development, database design, s
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesvmm&show_icons=true&theme=transparent&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesvmm&layout=compact&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=thesvmm&show_icons=true&theme=transparent&hide_border=true&title_color=67C2A1&text_color=B3B9C5&icon_color=67C2A1" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesvmm&layout=compact&theme=transparent&hide_border=true&title_color=67C2A1&text_color=B3B9C5" height="165">
 </p>
 
 ---
