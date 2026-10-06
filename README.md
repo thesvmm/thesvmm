@@ -105,8 +105,8 @@ I'm continuously improving my understanding of how to design backend systems tha
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adtzslowy&show_icons=true&theme=transparent&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adtzslowy&layout=compact&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=thesvmm&show_icons=true&theme=transparent&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesvmm&layout=compact&theme=transparent&hide_border=true" height="165">
 </p>
 
 ---
