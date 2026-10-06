@@ -8,8 +8,6 @@ My main interests are **backend engineering, API development, database design, s
 
 ---
 
-
-### Tech Stack I Use
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
