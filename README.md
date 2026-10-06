@@ -1,108 +1,31 @@
-# Hi, I'm Adit 👋
+### Hello there 👋
 
-I'm an **Information Technology graduate** and **Backend Engineer** who enjoys building reliable, maintainable, and practical software.
+I'm an **Information Technology graduate and Backend Engineer** passionate about building reliable, scalable, and maintainable software.
 
-I started my development journey with HTML & CSS, moved into JavaScript and React, and eventually focused more on backend development with **Laravel and Go**.
+My development journey started with web fundamentals and evolved into building real-world applications using **Laravel and Go**. I enjoy turning business requirements into well-structured backend systems, from designing **RESTful APIs and database architecture** to implementing authentication, authorization, and business logic.
 
-Currently, I'm interested in **backend engineering, API development, database design, system architecture, and DevOps**.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Information Technology graduate
-- 💻 Focused on Backend Engineering
-- 🚀 Building REST APIs and backend systems with **Go & Laravel**
-- 🗄️ Working with **PostgreSQL** and relational databases
-- 🐳 Using **Docker** for development and deployment
-- 🌐 Building modern web interfaces with **Svelte / SvelteKit**
-- 🧩 Interested in clean architecture, scalable systems, and maintainable code
-- 🛠️ Currently building and improving personal & real-world projects
+My main interests are **backend engineering, API development, database design, system architecture, and DevOps**. I continuously strive to write clean, efficient, and maintainable code while building software that solves real problems.
 
 ---
 
-## ⚡ Tech Stack
 
-### Backend
+### Here's a list of my tech stack and skills 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### Frontend
-
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Database
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Tools & DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 What I'm Building
-
-### 🔹 SIMO — Sistem Informasi Manajemen Organisasi
-
-A management information system focused on organizational data and administration.
-
-**Stack:** Go · PostgreSQL · SvelteKit · Docker
-
-### 🔹 POS & Inventory Systems
-
-Building practical POS and inventory management systems with features such as:
-
-- Product & inventory management
-- Stock tracking
-- Transactions
-- User roles & permissions
-- Reporting
-- PDF / Excel exports
-
-**Stack:** Laravel · PHP · PostgreSQL · Tailwind CSS
-
-### 🔹 Other Projects
-
-I also work on projects involving:
-
-- 🌐 WebGIS
-- 📊 Information systems
-- 📱 Community / healthcare systems
-- 🤖 IoT & monitoring systems
-- 🔐 Authentication & RBAC
-- ⚙️ REST API development
-
----
-
-## 🧠 Currently Learning
-
-```text
-Backend Architecture
-        ↓
-Clean Architecture
-        ↓
-Database Design
-        ↓
-API Design
-        ↓
-Docker & DevOps
-        ↓
-Scalable Systems
-```
-
-I'm continuously improving my understanding of how to design backend systems that are **simple, maintainable, and reliable**.
-
----
-
-## 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesvmm&show_icons=true&theme=transparent&hide_border=true" height="165">
@@ -111,7 +34,7 @@ I'm continuously improving my understanding of how to design backend systems tha
 
 ---
 
-## 🤝 Let's Connect
+### Let's Connect
 
 I'm always open to discussing:
 
