@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm an **Information Technology graduate and Backend Engineer** passionate about building reliable, scalable, and maintainable software.
+I'm an **Information Technology graduate and full stack developer** passionate about building reliable, scalable, and maintainable software.
 
 My development journey started with web fundamentals and evolved into building real-world applications using **Laravel and Go**. I enjoy turning business requirements into well-structured backend systems, from designing **RESTful APIs and database architecture** to implementing authentication, authorization, and business logic.
 
