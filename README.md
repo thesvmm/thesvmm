@@ -23,18 +23,22 @@ My main interests are **backend engineering, API development, database design, s
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thesvmm&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=transparent&hide_border=true&title_color=67C2A1&text_color=B3B9C5&icon_color=67C2A1&ring_color=67C2A1"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesvmm&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=67C2A1&text_color=B3B9C5"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=thesvmm&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=transparent&hide_border=true&title_color=67C2A1&text_color=B3B9C5&icon_color=67C2A1&ring_color=67C2A1&card_width=400&locale=id"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesvmm&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=67C2A1&text_color=B3B9C5&card_width=400&locale=id"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
